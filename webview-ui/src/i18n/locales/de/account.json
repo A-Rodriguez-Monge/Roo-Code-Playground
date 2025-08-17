@@ -3,15 +3,15 @@
 	"profilePicture": "Profilbild",
 	"logOut": "Abmelden",
 	"testApiAuthentication": "API-Authentifizierung testen",
-	"signIn": "Mit Roo Code Cloud verbinden",
+	"signIn": "Mit Y7 Copilot Cloud verbinden",
 	"connect": "Verbinden",
-	"cloudBenefitsTitle": "Mit Roo Code Cloud verbinden",
+	"cloudBenefitsTitle": "Mit Y7 Copilot Cloud verbinden",
 	"cloudBenefitsSubtitle": "Synchronisiere deine Prompts und Telemetrie, um folgendes zu aktivieren:",
 	"cloudBenefitHistory": "Online-Aufgabenverlauf",
 	"cloudBenefitSharing": "Freigabe- und Kollaborationsfunktionen",
 	"cloudBenefitMetrics": "Aufgaben-, Token- und kostenbasierte Nutzungsmetriken",
 	"cloudBenefitWalkaway": "Verfolge und steuere Aufgaben von überall mit Roomote Control",
 	"remoteControl": "Roomote Control",
-	"remoteControlDescription": "Ermöglicht das Verfolgen und Interagieren mit Aufgaben in diesem Arbeitsbereich mit Roo Code Cloud",
-	"visitCloudWebsite": "Roo Code Cloud besuchen"
+	"remoteControlDescription": "Ermöglicht das Verfolgen und Interagieren mit Aufgaben in diesem Arbeitsbereich mit Y7 Copilot Cloud",
+	"visitCloudWebsite": "Y7 Copilot Cloud besuchen"
 }

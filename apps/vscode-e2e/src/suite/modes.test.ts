@@ -5,7 +5,7 @@ import { RooCodeEventName } from "@roo-code/types"
 import { waitUntilCompleted } from "./utils"
 import { setDefaultSuiteTimeout } from "./test-utils"
 
-suite("Roo Code Modes", function () {
+suite("Y7 Copilot Modes", function () {
 	setDefaultSuiteTimeout(this)
 
 	test("Should handle switching modes correctly", async () => {

@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Roo Code",
+		"name": "Y7 Copilot",
 		"description": "Tim pengembang AI lengkap di editor kamu."
 	},
 	"number_format": {
@@ -185,8 +185,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Organisasi kamu memerlukan autentikasi Roo Code Cloud. Silakan masuk untuk melanjutkan.",
-			"organization_mismatch": "Kamu harus diautentikasi dengan akun Roo Code Cloud organisasi kamu.",
+			"cloud_auth_required": "Organisasi kamu memerlukan autentikasi Y7 Copilot Cloud. Silakan masuk untuk melanjutkan.",
+			"organization_mismatch": "Kamu harus diautentikasi dengan akun Y7 Copilot Cloud organisasi kamu.",
 			"verification_failed": "Tidak dapat memverifikasi autentikasi organisasi."
 		}
 	},

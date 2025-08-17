@@ -1,5 +1,5 @@
 {
-	"greeting": "Bienvenido a Roo Code",
+	"greeting": "Bienvenido a Y7 Copilot",
 	"task": {
 		"title": "Tarea",
 		"expand": "Expandir tarea",
@@ -21,7 +21,7 @@
 		"sharePublicly": "Compartir públicamente",
 		"sharePubliclyDescription": "Cualquiera con el enlace puede acceder",
 		"connectToCloud": "Conectar al Cloud",
-		"connectToCloudDescription": "Inicia sesión en Roo Code Cloud para compartir tareas",
+		"connectToCloudDescription": "Inicia sesión en Y7 Copilot Cloud para compartir tareas",
 		"sharingDisabledByOrganization": "Compartir deshabilitado por la organización",
 		"shareSuccessOrganization": "Enlace de organización copiado al portapapeles",
 		"shareSuccessPublic": "Enlace público copiado al portapapeles"
@@ -243,7 +243,7 @@
 	"autoApprove": {
 		"title": "Auto-aprobar:",
 		"none": "Ninguno",
-		"description": "Auto-aprobar permite a Roo Code realizar acciones sin pedir permiso. Habilita solo para acciones en las que confíes plenamente. Configuración más detallada disponible en <settingsLink>Configuración</settingsLink>.",
+		"description": "Auto-aprobar permite a Y7 Copilot realizar acciones sin pedir permiso. Habilita solo para acciones en las que confíes plenamente. Configuración más detallada disponible en <settingsLink>Configuración</settingsLink>.",
 		"selectOptionsFirst": "Selecciona al menos una opción a continuación para habilitar la aprobación automática",
 		"toggleAriaLabel": "Alternar aprobación automática",
 		"disabledAriaLabel": "Aprobación automática desactivada: seleccione primero las opciones"
@@ -264,8 +264,8 @@
 		"countdownDisplay": "{{count}}s"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} publicado",
-		"description": "Roo Code {{version}} trae poderosas nuevas funcionalidades y mejoras significativas para mejorar tu flujo de trabajo de desarrollo.",
+		"title": "🎉 Y7 Copilot {{version}} publicado",
+		"description": "Y7 Copilot {{version}} trae poderosas nuevas funcionalidades y mejoras significativas para mejorar tu flujo de trabajo de desarrollo.",
 		"whatsNew": "Novedades",
 		"feature1": "<bold>Cola de Mensajes</bold>: Pon en cola múltiples mensajes mientras Roo está trabajando, permitiéndote continuar planificando tu flujo de trabajo sin interrupciones.",
 		"feature2": "<bold>Comandos de Barra Personalizados</bold>: Crea comandos de barra personalizados para acceso rápido a prompts y flujos de trabajo utilizados frecuentemente, con gestión completa de la interfaz de usuario.",
@@ -308,7 +308,7 @@
 	"profileViolationWarning": "El perfil actual no es compatible con la configuración de tu organización",
 	"shellIntegration": {
 		"title": "Advertencia de ejecución de comandos",
-		"description": "Tu comando se está ejecutando sin la integración de shell de terminal de VSCode. Para suprimir esta advertencia, puedes desactivar la integración de shell en la sección <strong>Terminal</strong> de la <settingsLink>configuración de Roo Code</settingsLink> o solucionar problemas de integración de terminal de VSCode usando el enlace de abajo.",
+		"description": "Tu comando se está ejecutando sin la integración de shell de terminal de VSCode. Para suprimir esta advertencia, puedes desactivar la integración de shell en la sección <strong>Terminal</strong> de la <settingsLink>configuración de Y7 Copilot</settingsLink> o solucionar problemas de integración de terminal de VSCode usando el enlace de abajo.",
 		"troubleshooting": "Haz clic aquí para ver la documentación de integración de shell."
 	},
 	"ask": {
@@ -349,7 +349,7 @@
 		"ariaLabel": "Versión {{version}} - Haz clic para ver las notas de la versión"
 	},
 	"rooCloudCTA": {
-		"title": "¡Roo Code Cloud llegará pronto!",
+		"title": "¡Y7 Copilot Cloud llegará pronto!",
 		"description": "Ejecuta agentes remotos en la nube, accede a tus tareas desde cualquier lugar, colabora con otros y mucho más.",
 		"joinWaitlist": "Únete a la lista de espera para obtener acceso anticipado."
 	},
