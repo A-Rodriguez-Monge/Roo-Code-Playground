@@ -206,7 +206,7 @@ export class ClineProvider
 			])
 		}
 
-		// Initialize Roo Code Cloud profile sync.
+		// Initialize Y7 Copilot Cloud profile sync.
 		this.initializeCloudProfileSync().catch((error) => {
 			this.log(`Failed to initialize cloud profile sync: ${error}`)
 		})
@@ -976,7 +976,7 @@ export class ClineProvider
 						window.AUDIO_BASE_URI = "${audioUri}"
 						window.MATERIAL_ICONS_BASE_URI = "${materialIconsUri}"
 					</script>
-					<title>Roo Code</title>
+					<title>Y7 Copilot</title>
 				</head>
 				<body>
 					<div id="root"></div>
@@ -1049,7 +1049,7 @@ export class ClineProvider
 				window.AUDIO_BASE_URI = "${audioUri}"
 				window.MATERIAL_ICONS_BASE_URI = "${materialIconsUri}"
 			</script>
-            <title>Roo Code</title>
+            <title>Y7 Copilot</title>
           </head>
           <body>
             <noscript>You need to enable JavaScript to run this app.</noscript>

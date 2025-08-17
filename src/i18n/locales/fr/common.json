@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Roo Code",
+		"name": "Y7 Copilot",
 		"description": "Une équipe complète de développeurs IA dans votre éditeur."
 	},
 	"number_format": {
@@ -185,8 +185,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Votre organisation nécessite une authentification Roo Code Cloud. Veuillez vous connecter pour continuer.",
-			"organization_mismatch": "Vous devez être authentifié avec le compte Roo Code Cloud de votre organisation.",
+			"cloud_auth_required": "Votre organisation nécessite une authentification Y7 Copilot Cloud. Veuillez vous connecter pour continuer.",
+			"organization_mismatch": "Vous devez être authentifié avec le compte Y7 Copilot Cloud de votre organisation.",
 			"verification_failed": "Impossible de vérifier l'authentification de l'organisation."
 		}
 	},

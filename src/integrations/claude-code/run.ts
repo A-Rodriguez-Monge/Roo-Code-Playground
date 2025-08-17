@@ -167,7 +167,7 @@ function runProcess({
 		"stream-json",
 		"--disallowedTools",
 		claudeCodeTools,
-		// Roo Code will handle recursive calls
+		// Y7 Copilot will handle recursive calls
 		"--max-turns",
 		"1",
 	)

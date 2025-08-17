@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Rejoignez la communauté Roo Code</h2>
+  <h2>Rejoignez la communauté Y7 Copilot</h2>
   <p>Connectez-vous avec des développeurs, contribuez avec vos idées et restez à jour avec les derniers outils de programmation propulsés par l'IA.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Rejoindre%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre Discord"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Y7 Copilot</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** est un **agent de programmation autonome** propulsé par l'IA, au cœur de votre éditeur. Il peut :
+**Y7 Copilot** est un **agent de programmation autonome** propulsé par l'IA, au cœur de votre éditeur. Il peut :
 
 - Communiquer en langage naturel
 - Lire et écrire des fichiers directement dans votre espace de travail
@@ -44,15 +44,15 @@
 - S'intégrer avec n'importe quelle modèle/API compatible OpenAI
 - Adapter sa "personnalité" et ses capacités grâce aux **Modes Personnalisés**
 
-Que vous recherchiez un partenaire de codage flexible, un architecte système, ou des rôles spécialisés comme un ingénieur QA ou un chef de produit, Roo Code peut vous aider à développer des logiciels plus efficacement.
+Que vous recherchiez un partenaire de codage flexible, un architecte système, ou des rôles spécialisés comme un ingénieur QA ou un chef de produit, Y7 Copilot peut vous aider à développer des logiciels plus efficacement.
 
 Consultez le [CHANGELOG](../../CHANGELOG.md) pour des mises à jour détaillées et des corrections.
 
 ---
 
-## 🎉 Roo Code 3.25 est sorti
+## 🎉 Y7 Copilot 3.25 est sorti
 
-Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement !
+Y7 Copilot 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement !
 
 - **File d'attente de messages** - Mets plusieurs messages en file d'attente pendant que Roo travaille, te permettant de continuer à planifier ton flux de travail sans interruption.
 - **Commandes slash personnalisées** - Crée des commandes slash personnalisées pour un accès rapide aux prompts et flux de travail fréquemment utilisés avec une gestion complète de l'interface utilisateur.
@@ -60,7 +60,7 @@ Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorat
 
 ---
 
-## Que peut faire Roo Code ?
+## Que peut faire Y7 Copilot ?
 
 - 🚀 **Générer du code** à partir de descriptions en langage naturel
 - 🔧 **Refactoriser et déboguer** du code
@@ -71,7 +71,7 @@ Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorat
 
 ## Démarrage rapide
 
-1. [Installer Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Installer Y7 Copilot](https://docs.roocode.com/getting-started/installing)
 2. [Connecter votre fournisseur d'IA](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Essayer votre première tâche](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -79,7 +79,7 @@ Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorat
 
 ### Modes multiples
 
-Roo Code s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic-usage/using-modes) spécialisés :
+Y7 Copilot s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic-usage/using-modes) spécialisés :
 
 - **Mode Code :** Pour les tâches de programmation générales
 - **Mode Architecte :** Pour la planification et le leadership technique
@@ -89,18 +89,18 @@ Roo Code s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic
 
 ### Outils intelligents
 
-Roo Code est livré avec des [outils](https://docs.roocode.com/basic-usage/how-tools-work) puissants qui peuvent :
+Y7 Copilot est livré avec des [outils](https://docs.roocode.com/basic-usage/how-tools-work) puissants qui peuvent :
 
 - Lire et écrire des fichiers dans votre projet
 - Exécuter des commandes dans votre terminal VS Code
 - Contrôler un navigateur web
 - Utiliser des outils externes via [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP étend les capacités de Roo Code en vous permettant d'ajouter un nombre illimité d'outils personnalisés. Intégrez des API externes, connectez-vous à des bases de données ou créez des outils de développement spécialisés - MCP fournit le cadre pour étendre la fonctionnalité de Roo Code afin de répondre à vos besoins spécifiques.
+MCP étend les capacités de Y7 Copilot en vous permettant d'ajouter un nombre illimité d'outils personnalisés. Intégrez des API externes, connectez-vous à des bases de données ou créez des outils de développement spécialisés - MCP fournit le cadre pour étendre la fonctionnalité de Y7 Copilot afin de répondre à vos besoins spécifiques.
 
 ### Personnalisation
 
-Faites fonctionner Roo Code à votre manière avec :
+Faites fonctionner Y7 Copilot à votre manière avec :
 
 - [Instructions personnalisées](https://docs.roocode.com/advanced-usage/custom-instructions) pour un comportement personnalisé
 - [Modes personnalisés](https://docs.roocode.com/advanced-usage/custom-modes) pour des tâches spécialisées
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **Débogage** :
-   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Roo Code chargé.
+   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Y7 Copilot chargé.
 
 Les modifications apportées à la vue web apparaîtront immédiatement. Les modifications apportées à l'extension principale nécessiteront un redémarrage de l'hôte d'extension.
 
@@ -166,7 +166,7 @@ Nous utilisons [changesets](https://github.com/changesets/changesets) pour le ve
 
 ## Avertissement
 
-**Veuillez noter** que Roo Code, Inc **ne fait** aucune représentation ou garantie concernant tout code, modèle ou autre outil fourni ou mis à disposition en relation avec Roo Code, tout outil tiers associé, ou tout résultat. Vous assumez **tous les risques** associés à l'utilisation de tels outils ou résultats ; ces outils sont fournis **"TELS QUELS"** et **"SELON DISPONIBILITÉ"**. Ces risques peuvent inclure, sans s'y limiter, la violation de propriété intellectuelle, les vulnérabilités ou attaques cyber, les biais, les inexactitudes, les erreurs, les défauts, les virus, les temps d'arrêt, la perte ou les dommages matériels, et/ou les blessures corporelles. Vous êtes seul responsable de votre utilisation de ces outils ou résultats (y compris, mais sans s'y limiter, leur légalité, pertinence et résultats).
+**Veuillez noter** que Y7 Copilot, Inc **ne fait** aucune représentation ou garantie concernant tout code, modèle ou autre outil fourni ou mis à disposition en relation avec Y7 Copilot, tout outil tiers associé, ou tout résultat. Vous assumez **tous les risques** associés à l'utilisation de tels outils ou résultats ; ces outils sont fournis **"TELS QUELS"** et **"SELON DISPONIBILITÉ"**. Ces risques peuvent inclure, sans s'y limiter, la violation de propriété intellectuelle, les vulnérabilités ou attaques cyber, les biais, les inexactitudes, les erreurs, les défauts, les virus, les temps d'arrêt, la perte ou les dommages matériels, et/ou les blessures corporelles. Vous êtes seul responsable de votre utilisation de ces outils ou résultats (y compris, mais sans s'y limiter, leur légalité, pertinence et résultats).
 
 ---
 
@@ -178,7 +178,7 @@ Nous adorons les contributions de la communauté ! Commencez par lire notre [CON
 
 ## Contributeurs
 
-Merci à tous nos contributeurs qui ont aidé à améliorer Roo Code !
+Merci à tous nos contributeurs qui ont aidé à améliorer Y7 Copilot !
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -228,8 +228,8 @@ Merci à tous nos contributeurs qui ont aidé à améliorer Roo Code !
 
 ## Licence
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Y7 Copilot, Inc.](../LICENSE)
 
 ---
 
-**Profitez de Roo Code !** Que vous le gardiez en laisse courte ou que vous le laissiez se déplacer de manière autonome, nous avons hâte de voir ce que vous allez construire. Si vous avez des questions ou des idées de fonctionnalités, passez par notre [communauté Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Bon codage !
+**Profitez de Y7 Copilot !** Que vous le gardiez en laisse courte ou que vous le laissiez se déplacer de manière autonome, nous avons hâte de voir ce que vous allez construire. Si vous avez des questions ou des idées de fonctionnalités, passez par notre [communauté Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Bon codage !

@@ -1,5 +1,5 @@
 {
-	"greeting": "Roo Code'a Hoş Geldiniz",
+	"greeting": "Y7 Copilot'a Hoş Geldiniz",
 	"task": {
 		"title": "Görev",
 		"expand": "Görevi genişlet",
@@ -21,7 +21,7 @@
 		"sharePublicly": "Herkese açık paylaş",
 		"sharePubliclyDescription": "Bağlantıya sahip herkes erişebilir",
 		"connectToCloud": "Buluta bağlan",
-		"connectToCloudDescription": "Görevleri paylaşmak için Roo Code Cloud'a giriş yap",
+		"connectToCloudDescription": "Görevleri paylaşmak için Y7 Copilot Cloud'a giriş yap",
 		"sharingDisabledByOrganization": "Paylaşım kuruluş tarafından devre dışı bırakıldı",
 		"shareSuccessOrganization": "Organizasyon bağlantısı panoya kopyalandı",
 		"shareSuccessPublic": "Genel bağlantı panoya kopyalandı"
@@ -243,7 +243,7 @@
 	"autoApprove": {
 		"title": "Otomatik-onay:",
 		"none": "Hiçbiri",
-		"description": "Otomatik onay, Roo Code'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
+		"description": "Otomatik onay, Y7 Copilot'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
 		"selectOptionsFirst": "Otomatik onayı etkinleştirmek için aşağıdan en az bir seçenek belirleyin",
 		"toggleAriaLabel": "Otomatik onayı değiştir",
 		"disabledAriaLabel": "Otomatik onay devre dışı - önce seçenekleri belirleyin"
@@ -264,8 +264,8 @@
 		"countdownDisplay": "{{count}}sn"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} Yayınlandı",
-		"description": "Roo Code {{version}}, geliştirme iş akışınızı geliştirmek için güçlü yeni özellikler ve önemli iyileştirmeler getiriyor.",
+		"title": "🎉 Y7 Copilot {{version}} Yayınlandı",
+		"description": "Y7 Copilot {{version}}, geliştirme iş akışınızı geliştirmek için güçlü yeni özellikler ve önemli iyileştirmeler getiriyor.",
 		"whatsNew": "Yenilikler",
 		"feature1": "<bold>Mesaj Kuyruğu</bold>: Roo çalışırken birden fazla mesajı kuyruğa alın, iş akışınızı kesintisiz olarak planlamaya devam etmenizi sağlar.",
 		"feature2": "<bold>Özel Slash Komutları</bold>: Sık kullanılan promptlara ve iş akışlarına hızlı erişim için kişiselleştirilmiş slash komutları oluşturun, tam UI yönetimi ile.",
@@ -308,7 +308,7 @@
 	"profileViolationWarning": "Geçerli profil kuruluşunuzun ayarlarıyla uyumlu değil",
 	"shellIntegration": {
 		"title": "Komut Çalıştırma Uyarısı",
-		"description": "Komutunuz VSCode terminal kabuk entegrasyonu olmadan çalıştırılıyor. Bu uyarıyı gizlemek için <settingsLink>Roo Code ayarları</settingsLink>'nın <strong>Terminal</strong> bölümünden kabuk entegrasyonunu devre dışı bırakabilir veya aşağıdaki bağlantıyı kullanarak VSCode terminal entegrasyonu sorunlarını giderebilirsiniz.",
+		"description": "Komutunuz VSCode terminal kabuk entegrasyonu olmadan çalıştırılıyor. Bu uyarıyı gizlemek için <settingsLink>Y7 Copilot ayarları</settingsLink>'nın <strong>Terminal</strong> bölümünden kabuk entegrasyonunu devre dışı bırakabilir veya aşağıdaki bağlantıyı kullanarak VSCode terminal entegrasyonu sorunlarını giderebilirsiniz.",
 		"troubleshooting": "Kabuk entegrasyonu belgelerini görmek için buraya tıklayın."
 	},
 	"ask": {
@@ -349,7 +349,7 @@
 		"ariaLabel": "Sürüm {{version}} - Sürüm notlarını görüntülemek için tıklayın"
 	},
 	"rooCloudCTA": {
-		"title": "Roo Code Cloud yakında geliyor!",
+		"title": "Y7 Copilot Cloud yakında geliyor!",
 		"description": "Bulutta uzak ajanlar çalıştırın, görevlerinize her yerden erişin, başkalarıyla işbirliği yapın ve daha fazlası.",
 		"joinWaitlist": "Erken erişim için bekleme listesine katılın."
 	},
